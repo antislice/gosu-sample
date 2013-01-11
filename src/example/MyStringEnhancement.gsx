@@ -1,4 +1,4 @@
-package test
+package example
 
 enhancement MyStringEnhancement : java.lang.String {
 
